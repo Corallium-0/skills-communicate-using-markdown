@@ -3,7 +3,7 @@
 ###### Smallest Header
 
 ![Image of Yaktocat](https://octodex.github.com/image/yaktocat.png)
-
+![Image of Yaktoca](https://octodex.github.com/images/yaktocat.png)
 
 ``` Java
 class MyClass()
